@@ -38,5 +38,6 @@
 ## Library : 
 - Future read
 - Favourites 
+- Collections
 
 
