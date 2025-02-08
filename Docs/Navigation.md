@@ -9,3 +9,10 @@
 1. **Library** → Future Reads / Favorites
 
 1. **Profile** → Edit Story / Write Story
+
+
+![Home](./home%20and%20author.png)
+![Login](./login.png)
+![Library](./library.png)
+![Profile](./profile.png)
+
